@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.addBtn {
+  border-radius: 10px;
+  height: 23px;
+  background-color: #b6fb84;
+  cursor: pointer;
+  margin-left: 20px;
+
+}
+.mainDiv{
+  text-align: center;
+  margin: 50px auto;
+}
+
+.btns{
+  cursor: pointer;
+}
